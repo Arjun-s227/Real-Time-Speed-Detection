@@ -2,6 +2,7 @@
 
 This is code implementation of the Real-time speed detection 
 [Speed Detection Report](https://drive.google.com/file/d/1nDjnJwIkdP9NIfwu7b7xc5iGy94oDs-Q/view?usp=drive_link)<br/>
+[Speed Detection PPT](https://www.canva.com/design/DAFwqcMQ4Jc/naIaP6tL-IhDEA60pHU23A/view?utm_content=DAFwqcMQ4Jc&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)<br/>
 
 
 <a href="https://colab.research.google.com/drive/1HH9CrC8LlIetYgAGQsY1c4f8DR0AWBQj?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
