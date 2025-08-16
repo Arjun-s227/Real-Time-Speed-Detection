@@ -27,7 +27,7 @@ conda env create -n speed_detect --file environment.yml python=3.8.18
 
 Clone the repo
 ``` shell
-git clone https://github.com/ShubhamPednekar19/realtimeSpeed-Yolov7-Deepsort-stereovision.git
+git clone https://github.com/Arjun-s227/Real-Time-Speed-Detection.git
 ``` 
 
 Download the required pre-trained checkpoints of the models (Yolo, Deepsort, IGEV)
